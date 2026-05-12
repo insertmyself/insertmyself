@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./images/Banner.png" />
+</p>
+
 # About Me:
 - Currently working on my own dotfiles and some stuff
 - Still trying to become better everyday

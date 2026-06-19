@@ -6,7 +6,7 @@
 - Currently focusing onto TypeScript and website development
 - Still trying to become better everyday
 - Can do some basic math equations without needing to smoke out brain
-- Sometimes being dumb asf
+- Sometimes being dumb as you could expect
 - Have quite the memory of a gold fish
 
 # Currently Into
@@ -14,6 +14,7 @@
 - TypeScript and website development
 - Linux distros especially Arch Linux (i use arch btw)
 - Terminal User Interface (TUI)
+- RayLib and game development with C and C++
 - Learning new languages
 
 # Tech Stack

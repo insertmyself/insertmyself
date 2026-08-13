@@ -17,6 +17,4 @@
 - Building custom IoT stuff like cyberdeck to use.
 
 # Keep In Touch
-[Instagram]
-
-[Instagram]: https://www.instagram.com/insertmyself
+[[Instagram](https://www.instagram.com/insertmyself)]

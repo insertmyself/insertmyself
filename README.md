@@ -17,4 +17,6 @@
 - Building custom IoT stuff like cyberdeck to use.
 
 # Fastfetch And Specs
-<img src="./images/fastfetch.jpg" />
+<p align="center">
+    <img src="./images/fastfetch.jpg" />
+</p>

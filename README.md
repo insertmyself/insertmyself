@@ -15,6 +15,3 @@
 - TUI and CLI, both is good.
 - RayLib and game development with C and C++.
 - Building custom IoT stuff like cyberdeck to use.
-
-# Keep In Touch
-[[`Instagram`](https://www.instagram.com/insertmyself)]

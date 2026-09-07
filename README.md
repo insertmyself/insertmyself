@@ -15,8 +15,3 @@
 - TUI and CLI, both is good.
 - RayLib and game development with C and C++.
 - Building custom IoT stuff like cyberdeck to use.
-
-# Fastfetch And Specs
-<p align="center">
-    <img src="./images/fastfetch.jpg" />
-</p>
